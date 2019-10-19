@@ -1,9 +1,0 @@
-/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Business/bin/Debug/netcoreapp2.0/TurkiyeOku.Business.deps.json
-/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Business/bin/Debug/netcoreapp2.0/TurkiyeOku.Business.dll
-/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Business/bin/Debug/netcoreapp2.0/TurkiyeOku.Business.pdb
-/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Business/obj/Debug/netcoreapp2.0/TurkiyeOku.Business.csprojAssemblyReference.cache
-/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Business/obj/Debug/netcoreapp2.0/TurkiyeOku.Business.csproj.CoreCompileInputs.cache
-/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Business/obj/Debug/netcoreapp2.0/TurkiyeOku.Business.AssemblyInfoInputs.cache
-/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Business/obj/Debug/netcoreapp2.0/TurkiyeOku.Business.AssemblyInfo.cs
-/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Business/obj/Debug/netcoreapp2.0/TurkiyeOku.Business.dll
-/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Business/obj/Debug/netcoreapp2.0/TurkiyeOku.Business.pdb

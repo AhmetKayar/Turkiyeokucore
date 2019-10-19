@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.turkiyeoku.ui", "app.turkiyeoku.ui\app.turkiyeoku.ui.csproj", "{54DAD1BC-1541-4A7B-BB4C-D0BF499A50F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.core", "app.core\app.core.csproj", "{5D5DDD45-162B-41A4-8A1C-93DE7764376A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54DAD1BC-1541-4A7B-BB4C-D0BF499A50F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DAD1BC-1541-4A7B-BB4C-D0BF499A50F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DAD1BC-1541-4A7B-BB4C-D0BF499A50F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DAD1BC-1541-4A7B-BB4C-D0BF499A50F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D5DDD45-162B-41A4-8A1C-93DE7764376A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5DDD45-162B-41A4-8A1C-93DE7764376A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5DDD45-162B-41A4-8A1C-93DE7764376A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5DDD45-162B-41A4-8A1C-93DE7764376A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
