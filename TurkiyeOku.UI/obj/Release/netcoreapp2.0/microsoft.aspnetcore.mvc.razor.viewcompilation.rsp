@@ -1,0 +1,12 @@
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.UI
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=TurkiyeOku.UI
+--content-root=/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.UI
+--file=/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.UI/Views/Home/About.cshtml
+--file=/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.UI/Views/Home/Contact.cshtml
+--file=/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.UI/Views/Home/Index.cshtml
+--file=/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.UI/Views/Shared/Error.cshtml
+--file=/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.UI/Views/Shared/_Layout.cshtml
+--file=/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.UI/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.UI/Views/_ViewImports.cshtml
+--file=/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.UI/Views/_ViewStart.cshtml

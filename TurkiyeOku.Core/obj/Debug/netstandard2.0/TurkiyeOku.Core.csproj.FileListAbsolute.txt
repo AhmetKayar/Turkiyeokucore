@@ -1,0 +1,9 @@
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Core/bin/Debug/netstandard2.0/TurkiyeOku.Core.deps.json
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Core/bin/Debug/netstandard2.0/TurkiyeOku.Core.dll
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Core/bin/Debug/netstandard2.0/TurkiyeOku.Core.pdb
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Core/obj/Debug/netstandard2.0/TurkiyeOku.Core.csprojAssemblyReference.cache
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Core/obj/Debug/netstandard2.0/TurkiyeOku.Core.csproj.CoreCompileInputs.cache
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Core/obj/Debug/netstandard2.0/TurkiyeOku.Core.AssemblyInfoInputs.cache
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Core/obj/Debug/netstandard2.0/TurkiyeOku.Core.AssemblyInfo.cs
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Core/obj/Debug/netstandard2.0/TurkiyeOku.Core.dll
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Core/obj/Debug/netstandard2.0/TurkiyeOku.Core.pdb

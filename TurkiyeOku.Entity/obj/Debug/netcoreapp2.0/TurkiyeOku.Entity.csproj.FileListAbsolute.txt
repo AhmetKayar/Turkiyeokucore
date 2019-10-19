@@ -1,0 +1,9 @@
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Entity/bin/Debug/netcoreapp2.0/TurkiyeOku.Entity.deps.json
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Entity/bin/Debug/netcoreapp2.0/TurkiyeOku.Entity.dll
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Entity/bin/Debug/netcoreapp2.0/TurkiyeOku.Entity.pdb
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Entity/obj/Debug/netcoreapp2.0/TurkiyeOku.Entity.csprojAssemblyReference.cache
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Entity/obj/Debug/netcoreapp2.0/TurkiyeOku.Entity.csproj.CoreCompileInputs.cache
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Entity/obj/Debug/netcoreapp2.0/TurkiyeOku.Entity.AssemblyInfoInputs.cache
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Entity/obj/Debug/netcoreapp2.0/TurkiyeOku.Entity.AssemblyInfo.cs
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Entity/obj/Debug/netcoreapp2.0/TurkiyeOku.Entity.dll
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.Entity/obj/Debug/netcoreapp2.0/TurkiyeOku.Entity.pdb

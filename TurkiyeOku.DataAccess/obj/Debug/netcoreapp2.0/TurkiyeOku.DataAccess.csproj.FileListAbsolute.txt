@@ -1,0 +1,8 @@
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.DataAccess/bin/Debug/netcoreapp2.0/TurkiyeOku.DataAccess.deps.json
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.DataAccess/bin/Debug/netcoreapp2.0/TurkiyeOku.DataAccess.dll
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.DataAccess/bin/Debug/netcoreapp2.0/TurkiyeOku.DataAccess.pdb
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.DataAccess/obj/Debug/netcoreapp2.0/TurkiyeOku.DataAccess.csproj.CoreCompileInputs.cache
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.DataAccess/obj/Debug/netcoreapp2.0/TurkiyeOku.DataAccess.AssemblyInfoInputs.cache
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.DataAccess/obj/Debug/netcoreapp2.0/TurkiyeOku.DataAccess.AssemblyInfo.cs
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.DataAccess/obj/Debug/netcoreapp2.0/TurkiyeOku.DataAccess.dll
+/Users/ahmetkayar/Desktop/Projects/turkiyeoku/TurkiyeOku.DataAccess/obj/Debug/netcoreapp2.0/TurkiyeOku.DataAccess.pdb
